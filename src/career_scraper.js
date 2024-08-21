@@ -1,4 +1,7 @@
 import { PlaywrightCrawler, Dataset } from '@crawlee/playwright';
+import fs from 'fs'; // Add this import at the top
+import { createObjectCsvWriter } from 'csv-writer'; // Import csv-writer
+import csv from 'csv-parser';
 
 const knownATSDomains = [
     'greenhouse.io', 'lever.co', 'myworkdayjobs.com', 
@@ -7,7 +10,7 @@ const knownATSDomains = [
 ];
 
 const careerPatterns = [
-    'career', 'jobs', 'join', 'open-roles', 
+    'career', 'jobs', 'join', 'open-roles','apply',
     '/apply', '/jobsearch', '/search/', '/recruiting'
 ];
 
@@ -28,7 +31,7 @@ const crawler = new PlaywrightCrawler({
             log.info(`Found careers/ATS page: ${careerLinks[0].href}`);
             // Save or process the careers/ATS link…
             console.log(`Careers page: ${careerLinks[0].href}`);
-            await Dataset.pushData(careerLinks[0]);
+            careerLinksData.push(careerLinks[0]); // Store the found link
         } else {
             log.warning(`No careers page found for ${request.url}`);
         }
@@ -138,4 +141,8 @@ const crawler = new PlaywrightCrawler({
 
     // Start the crawler
     await crawler.run();
+
+    // Export the career links to CSV using csv-writer
+    await csvWriter.writeRecords(careerLinksData); // Write to CSV file
+    console.log(`Career links exported to ${outputFilePath}`);
 })();
