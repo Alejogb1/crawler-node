@@ -1,6 +1,7 @@
 import { PlaywrightCrawler, Dataset } from '@crawlee/playwright';
-import fs from 'fs'; // Add this import at the top
-import { createObjectCsvWriter } from 'csv-writer'; // Import csv-writer
+import fs from 'fs';
+import path from 'path';
+import { createObjectCsvWriter } from 'csv-writer';
 import csv from 'csv-parser';
 
 const knownATSDomains = [
@@ -37,6 +38,17 @@ const crawler = new PlaywrightCrawler({
         }
     }
 });
+
+const outputFilePath = 'career_links.csv';
+const csvWriter = createObjectCsvWriter({
+    path: outputFilePath,
+    header: [
+        { id: 'href', title: 'URL' },
+        { id: 'text', title: 'Link Text' }
+    ]
+});
+
+const careerLinksData = [];
 
 (async () => {
     // List of seed URLs (main URLs of the companies)
@@ -135,14 +147,28 @@ const crawler = new PlaywrightCrawler({
         'https://voltrondata.com'
     ];
     // Add seed URLs to the queue
-    for (const url of seedUrls) {
+    /*for (const url of seedUrls) {
         await crawler.addRequests([url]);
+    }*/
+    const allUrlsPath = path.join(process.cwd(), 'all_urls.txt');
+    
+    try {
+        const fileContent = fs.readFileSync(allUrlsPath, 'utf-8');
+        const fileUrls = fileContent.split('\n').filter(url => url.trim() !== '');
+        
+        // Add file URLs to the queue
+        for (const url of fileUrls) {
+            await crawler.addRequests([url]);
+        }
+        
+        console.log(`Added ${fileUrls.length} URLs from all_urls.txt to the crawler queue.`);
+    } catch (error) {
+        console.error(`Error reading all_urls.txt: ${error.message}`);
     }
-
     // Start the crawler
     await crawler.run();
 
-    // Export the career links to CSV using csv-writer
-    await csvWriter.writeRecords(careerLinksData); // Write to CSV file
+    // Export the career links to CSV
+    await csvWriter.writeRecords(careerLinksData);
     console.log(`Career links exported to ${outputFilePath}`);
 })();
