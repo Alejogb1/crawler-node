@@ -13,7 +13,7 @@ class Website {
 
 // Site data array
 const siteData = [
-    ['Pinecone', 'https://www.pinecone.io/careers/', 'h1', 'a.group.cursor-pointer.px-4.py-5.text-small.bg-alpha3'],
+    ['Pinecone', 'https://inworld.ai/careers', 'h1', 'a.group.cursor-pointer.px-4.py-5.text-small.bg-alpha3'],
 ];
 
 const workdayUrls = [

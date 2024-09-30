@@ -13,7 +13,6 @@
     "scripts": {
         "start": "node src/main.js",
         "career": "node src/career_scraper.js",
-        "csv": "node src/read_csv.js",
         "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
     },
     "author": "It's not you it's me",
