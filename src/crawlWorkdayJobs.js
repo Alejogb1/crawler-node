@@ -3,34 +3,44 @@ import { PlaywrightCrawler, Dataset } from '@crawlee/playwright';
 async function crawlWorkdayJobs(urls) {
     const crawler = new PlaywrightCrawler({
         async requestHandler({ page, request, log }) {
-            log.info(`Processing ${request.url}`);
-            await page.waitForSelector('li.css-1q2dra3');
+            try {
+                log.info(`Processing ${request.url}`);
+                await page.waitForSelector('li.css-1q2dra3');
 
-            const jobs = await page.$$eval('li.css-1q2dra3', (elements) => {
-                return elements.map((el) => {
-                    const titleElement = el.querySelector('h3 a');
-                    const idElement = el.querySelector('ul[data-automation-id="subtitle"] li');
-                    const postedElement = el.querySelector('dd.css-129m7dg');
-
-                    return {
-                        title: titleElement.textContent,
-                        href: titleElement.href,
-                        id: idElement.textContent,
-                        postedOn: postedElement.textContent,
-                    };
+                const jobs = await page.$$eval('li.css-1q2dra3', (elements) => {
+                    return elements.map((el) => {
+                        const titleElement = el.querySelector('h3 a');
+                        const idElement = el.querySelector('ul[data-automation-id="subtitle"] li');
+                        const postedElement = el.querySelector('dd.css-129m7dg');
+                        const locationElement = el.querySelector('dd.css-129m7dg');
+                        const departmentElement = el.querySelector('dd.css-129m7dg');
+                        const companyElement = el.querySelector('dd.css-129m7dg');
+                        const jobTypeElement = el.querySelector('dd.css-129m7dg');
+                        const jobDescriptionElement = el.querySelector('dd.css-129m7dg');
+                        const jobRequirementsElement = el.querySelector('dd.css-129m7dg');
+                        const jobQualificationsElement = el.querySelector('dd.css-129m7dg');
+                        return {
+                            title: titleElement?.textContent,
+                            href: titleElement?.href,
+                            id: idElement?.textContent,
+                            postedOn: postedElement?.textContent,
+                        };
+                    });
                 });
-            });
 
-            for (const job of jobs) {
-                log.info(`Found job: ${job.title}`);
-                await Dataset.pushData(job);
-                // Here you can process each job, e.g., save to a file or database
-            }
-
-            // Check for next page and enqueue if exists
-            const nextButton = await page.$('button[data-uxi-element-id="next"]:not([disabled])');
-            if (nextButton) {
-                await crawler.addRequests([{ url: request.url }]);
+                for (const job of jobs) {
+                    log.info(`Found job: ${job.title}`);
+                    await Dataset.pushData(job);
+                    // Here you can process each job, e.g., save to a file or database
+                }
+                
+                // Check for next page and enqueue if exists
+                const nextButton = await page.$('button[data-uxi-element-id="next"]:not([disabled])');
+                if (nextButton) {
+                    await crawler.addRequests([{ url: request.url }]);
+                }
+            } catch (error) {
+                log.error(`Error processing ${request.url}: ${error.message}`);
             }
         },
         maxRequestsPerCrawl: 100, // Adjust as needed

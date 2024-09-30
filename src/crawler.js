@@ -12,7 +12,7 @@ class Website {
 
 // Site data array…
 const siteData = [
-    ['O\'Reilly', 'https://www.oreilly.com', 'h1', 'div.title-description'],
+    ['Nvidia', 'https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite', 'h1', 'div.title-description'],
 ];
 
 // Initialize the websites array

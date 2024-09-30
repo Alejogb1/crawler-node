@@ -79,7 +79,6 @@ async function scrapeWebsite(website) {
 
 // Scrape each website with its corresponding path
 (async () => {
-    await scrapeWebsite(websites[0]); // Greenhouse site example
     console.log('Crawling Workday jobs');
     await crawlWorkdayJobs(workdayUrls);
 })();
