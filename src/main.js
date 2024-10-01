@@ -17,7 +17,7 @@ const siteData = [
 ];
 
 const workdayUrls = [
-    'https://ag.wd3.myworkdayjobs.com/en-US/Airbus',
+    'https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite',
     // Add other Workday URLs here
 ];
 
