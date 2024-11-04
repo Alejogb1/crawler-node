@@ -1,0 +1,97 @@
+Title,URL Source,Markdown Content
+Senior Site Reliability Engineer - Observability and Telemetry Platform,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Observability-and-Telemetry-Platform_JR1986326,"Site Reliability Engineering (SRE) at NVIDIA is an engineering discipline to design, build and maintain large scale production systems with high efficiency and availability using the combination of software and systems engineering practices. This is a highly specialized discipline which demands knowledge across different systems, networking, coding, database, capacity management, continuous delivery and deployment and open source cloud enabling technologies like Kubernetes and OpenStack. SRE at NVIDIA ensures that our internal and external facing GPU cloud services run maximum reliability and uptime as promised to the users and at the same time enabling developers to make changes to the existing system through careful preparation and planning while keeping an eye on capacity, latency and performance. SRE is also a mindset and a set of engineering approaches to running better production systems and optimizations. Much of our software development focuses on eliminating manual work through automation, performance tuning and growing efficiency of production systems.
+
+As SREs are responsible for the big picture of how our systems relate to each other, we use a breadth of tools and approaches to tackle a broad spectrum of problems. Practices such as limiting time spent on reactive operational work, blameless postmortems and proactive identification of potential outages factor into iterative improvement that is key to both product quality and interesting dynamic day-to-day work. SRE's culture of diversity, intellectual curiosity, problem solving and openness is important to our success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to build an environment that provides the support and mentorship needed to learn and grow.
+
+**What you'll be doing:**
+
+*   Design, implement and support operational and reliability aspects of large scale Observability & Telemetry collection platform with a focus on performance at scale, real time monitoring, logging and alerting
+    
+*   Engage in and improve the whole lifecycle of services—from inception and design through deployment, operation and refinement
+    
+*   Support services before they go live through activities such as system design consulting, developing software tools, platforms and frameworks, capacity management and launch reviews
+    
+*   Maintain services once they are live by measuring and monitoring availability, latency and overall system health
+    
+*   Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity
+    
+*   Practice sustainable incident response and blameless postmortems
+    
+*   Be part of an on call rotation to support production systems
+    
+
+**What we need to see:**
+
+*   BS degree in Computer Science or a related technical field involving coding (e.g., physics or mathematics), or equivalent experience
+    
+*   5+ years of experience with Infrastructure automation, distributed systems design, experience with design, develop tools for running large scale private or public cloud system in Production
+    
+*   5+ years experience delivering foundational infrastructure and observability platforms.
+    
+*   Experience in one or more of the following: Python, Go, Perl or Ruby
+    
+*   In depth knowledge on Linux, Networking and Containers
+    
+
+**Ways to stand out from the crowd:**
+
+*   Interest in crafting, analyzing and fixing large-scale distributed systems
+    
+*   Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive. Ability to debug and optimize code and automate routine tasks
+    
+*   Experience in using or running large private and public cloud systems based on Kubernetes, OpenStack and Docker. Experience running Grafana, OpenTelemetry, Prometheus, and similar observability focused tools
+    
+
+The base salary range is 148,000 USD - 419,750 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior DGX Cloud Software Engineer- Infrastructure Automation and Distributed Systems,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DGX-Cloud-Software-Engineer--Infrastructure-Automation-and-Distributed-Systems_JR1988162,"We are seeking Systems Engineers and Software Engineers interested in building and running reliable large scale cloud infrastructure services at scale close to the bare metal. In this organization, you will ensure that our internal and external facing cloud services atop of our hardware for accelerated computing are running as reliably as needed.
+
+**What you’ll be doing:**
+
+*   Design, build, deploy, and run cloud infrastructure services in scope to meet our business goals performing migrations and decommissions as necessary.
+    
+*   Participate in the definition of our internal facing service level objectives and error budgets as part of our overall observability strategy.
+    
+*   Eliminate toil or automate it where the ROI of building and maintaining automation is worth it.
+    
+*   Practice sustainable blameless incident prevention and incident response while being a member of an oncall rotation.
+    
+*   Consult with and provide consultation for peer teams on systems design best practices.
+    
+
+**What we need to see:**
+
+*   BS degree in Computer Science or a related technical field involving coding (e.g., physics or mathematics) or equivalent experience.
+    
+*   5+ years of relevant experience.
+    
+*   A track record showing a good balance between initiating your own projects, convincing others to collaborate with you and collaborating well on projects initiated by others.
+    
+*   Experience with infrastructure automation and distributed systems design developing tools for running large scale private or public cloud system in production.
+    
+*   Experience in one or more of the following: Python, Go, Perl or Ruby.
+    
+*   In depth knowledge in one or more of Linux, Networking, Storage, and Containers.
+    
+
+**Ways to stand out from the crowd:**
+
+*   Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive. Experience working with or developing bare metal as a service (BMaaS) associated systems. Experience working with or developing multi-cloud infrastructure services.
+    
+*   Experience teaching reliability (e.g SRE) or more general cloud systems good practices to peers or to other companies (e.g CRE). Experience in running private or public cloud systems based on one or more of Kubernetes, OpenStack, Docker or Slurm.
+    
+*   Experience with Nvidia Collective Communication Library (NCCL). No prior experience having worked in a team of any particular name or having worked in a ML/AI focused team are required but also a nice to have.
+    
+
+A culture of diversity, intellectual curiosity, problem solving and openness is important to our success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to build an environment that provides the support and mentorship needed to learn and grow. NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hard-working people in the world working for us. Are you creative and autonomous? Do you love a challenge? If so, we want to hear from you.
+
+The base salary range is 148,000 USD - 276,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
