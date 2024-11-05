@@ -19,7 +19,10 @@ processed_data = []
 # Read the URLs from the fourth column of the CSV file
 try:
     df = pd.read_csv(input_csv_file)
-    csv_urls = df.iloc[:, 3].dropna().tolist()  # Extract URLs from the fourth column and remove any NaNs
+
+    filtered_df = df.iloc[50:101]  # End at 101 to include row 100
+
+    csv_urls = filtered_df.iloc[:, 3].dropna().tolist()  # Extract URLs from the fourth column and remove any NaNs
 except Exception as e:
     print(f"Error reading {input_csv_file}: {e}")
     csv_urls = []  # Set an empty list to avoid further issues
