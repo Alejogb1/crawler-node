@@ -67,7 +67,7 @@ for url in csv_urls:
 
 # Output processed data to a new CSV file with structured columns
 output_file = 'processed_content.csv'
-with open(output_file, 'w', newline='') as file:
+with open(output_file, 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['Title', 'URL Source', 'Markdown Content'])  # Headers
     writer.writerows(processed_data)
