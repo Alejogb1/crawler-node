@@ -1,56 +1,40 @@
 Title,URL Source,Markdown Content
-Senior Site Reliability Engineer - Observability and Telemetry Platform,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Observability-and-Telemetry-Platform_JR1986326,"Site Reliability Engineering (SRE) at NVIDIA is an engineering discipline to design, build and maintain large scale production systems with high efficiency and availability using the combination of software and systems engineering practices. This is a highly specialized discipline which demands knowledge across different systems, networking, coding, database, capacity management, continuous delivery and deployment and open source cloud enabling technologies like Kubernetes and OpenStack. SRE at NVIDIA ensures that our internal and external facing GPU cloud services run maximum reliability and uptime as promised to the users and at the same time enabling developers to make changes to the existing system through careful preparation and planning while keeping an eye on capacity, latency and performance. SRE is also a mindset and a set of engineering approaches to running better production systems and optimizations. Much of our software development focuses on eliminating manual work through automation, performance tuning and growing efficiency of production systems.
+CAREERS AT NVIDIA,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Observability-and-Telemetry-Platform_JR1986326,"CAREERS AT NVIDIA
+===============
+            
 
-As SREs are responsible for the big picture of how our systems relate to each other, we use a breadth of tools and approaches to tackle a broad spectrum of problems. Practices such as limiting time spent on reactive operational work, blameless postmortems and proactive identification of potential outages factor into iterative improvement that is key to both product quality and interesting dynamic day-to-day work. SRE's culture of diversity, intellectual curiosity, problem solving and openness is important to our success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to build an environment that provides the support and mentorship needed to learn and grow.
+Skip to main content
 
-**What you'll be doing:**
+[![Image 1: careers](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/assets/logo)](https://www.nvidia.com/en-us/about-nvidia/careers/)
 
-*   Design, implement and support operational and reliability aspects of large scale Observability & Telemetry collection platform with a focus on performance at scale, real time monitoring, logging and alerting
-    
-*   Engage in and improve the whole lifecycle of servicesâ€”from inception and design through deployment, operation and refinement
-    
-*   Support services before they go live through activities such as system design consulting, developing software tools, platforms and frameworks, capacity management and launch reviews
-    
-*   Maintain services once they are live by measuring and monitoring availability, latency and overall system health
-    
-*   Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity
-    
-*   Practice sustainable incident response and blameless postmortems
-    
-*   Be part of an on call rotation to support production systems
-    
+CAREERS AT NVIDIA
+=================
 
-**What we need to see:**
+Sign In
 
-*   BS degree in Computer Science or a related technical field involving coding (e.g., physics or mathematics), or equivalent experience
-    
-*   5+ years of experience with Infrastructure automation, distributed systems design, experience with design, develop tools for running large scale private or public cloud system in Production
-    
-*   5+ years experience delivering foundational infrastructure and observability platforms.
-    
-*   Experience in one or more of the following: Python, Go, Perl or Ruby
-    
-*   In depth knowledge on Linux, Networking and Containers
-    
+HomeSearch for Jobs
 
-**Ways to stand out from the crowd:**
+![Image 2](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/assets/banner)
 
-*   Interest in crafting, analyzing and fixing large-scale distributed systems
-    
-*   Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive. Ability to debug and optimize code and automate routine tasks
-    
-*   Experience in using or running large private and public cloud systems based on Kubernetes, OpenStack and Docker. Experience running Grafana, OpenTelemetry, Prometheus, and similar observability focused tools
-    
+The page you are looking for doesn't exist.
 
-The base salary range is 148,000 USD - 419,750 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+Search for Jobs
 
-You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+Follow Us
 
-NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+*   [](https://twitter.com/nvidia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor ""X"")
+*   [](https://www.facebook.com/NVIDIA ""Facebook"")
+*   [](https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm ""Glassdoor"")
+*   [](https://www.linkedin.com/company/nvidia ""LinkedIn"")
+*   [](https://www.youtube.com/nvidia ""YouTube"")
+
+[Applicant Privacy Policy](https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/ ""Applicant Privacy Policy"")
+
+© 2024 Workday, Inc. All rights reserved.
 "
 Senior DGX Cloud Software Engineer- Infrastructure Automation and Distributed Systems,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DGX-Cloud-Software-Engineer--Infrastructure-Automation-and-Distributed-Systems_JR1988162,"We are seeking Systems Engineers and Software Engineers interested in building and running reliable large scale cloud infrastructure services at scale close to the bare metal. In this organization, you will ensure that our internal and external facing cloud services atop of our hardware for accelerated computing are running as reliably as needed.
 
-**What youâ€™ll be doing:**
+**What you’ll be doing:**
 
 *   Design, build, deploy, and run cloud infrastructure services in scope to meet our business goals performing migrations and decommissions as necessary.
     
@@ -87,9 +71,580 @@ Senior DGX Cloud Software Engineer- Infrastructure Automation and Distributed Sy
 *   Experience with Nvidia Collective Communication Library (NCCL). No prior experience having worked in a team of any particular name or having worked in a ML/AI focused team are required but also a nice to have.
     
 
-A culture of diversity, intellectual curiosity, problem solving and openness is important to our success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to build an environment that provides the support and mentorship needed to learn and grow. NVIDIA is widely considered to be one of the technology worldâ€™s most desirable employers. We have some of the most forward-thinking and hard-working people in the world working for us. Are you creative and autonomous? Do you love a challenge? If so, we want to hear from you.
+A culture of diversity, intellectual curiosity, problem solving and openness is important to our success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to build an environment that provides the support and mentorship needed to learn and grow. NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hard-working people in the world working for us. Are you creative and autonomous? Do you love a challenge? If so, we want to hear from you.
 
 The base salary range is 148,000 USD - 276,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Global Sourcing Analyst,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Sourcing-Analyst_JR1989987,"NVIDIA is looking for a Global Sourcing Analyst to join our Global Commodity Management Group. NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing — with the GPU acting as the brains of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.
+
+**What you’ll be doing:**
+
+In this role, you will leverage data analytics to optimize sourcing processes, build business intelligence (BI) reports, provide actionable insights, and manage performance programs such as supplier scorecards and team functional review KPIs. The ideal candidate will possess strong data analysis skills, proficiency in BI tools, and experience in sourcing or supply chain management. Design, develop, and implement software solutions that enable our organization to leverage digital technologies.
+
+*   Collect, analyze, and interpret large datasets related to procurement, sourcing, and supply chain operations.
+    
+*   Provide actionable insights that support sourcing strategies, cost optimization, and supplier performance improvement.
+    
+*   Build and maintain various types of BI reports and dashboards using tools like Power BI, Tableau, or similar platforms.
+    
+*   Continuously improve the quality and usability of reports by incorporating feedback and ensuring they meet business needs.
+    
+*   Automate the process of collecting data and monitoring important metrics related to supplier performance and internal functional reviews.
+    
+*   Assist in the development and execution of sourcing strategies by providing market and supplier analysis.
+    
+*   Find opportunities for reducing costs, mitigating risks, and improving efficiency throughout the supply chain.
+    
+*   Partner with stakeholders from procurement, finance, operations, and other departments to ensure alignment on sourcing initiatives and reporting needs.
+    
+
+**What we need to see:**
+
+*   Bachelor’s degree in Supply Chain Management, Business, Data Analytics, or a related field or equivalent experience
+    
+*   5+ years of experience in a similar role, preferably in procurement, supply chain, or sourcing.
+    
+*   Strong analytical skills with experience in data analysis and creating insights from large datasets.
+    
+*   Proficiency with BI tools (e.g., Power BI, Tableau) and advanced Excel skills (e.g., VLOOKUP, pivot tables, macros).
+    
+*   Excellent communication and presentation skills with the ability to translate data into business insights.
+    
+*   Strong organizational and multitasking abilities, with a focus on delivering results in a fast-paced environment.
+    
+*   Experience with SQL, Python, or other data analysis languages.
+    
+
+With competitive salaries and generous benefits packages, we are widely considered to be one of the technology world’s most desirable employers; we have some of the most thoughtful and dedicated people in the world working for us and, due to unparalleled growth, our best-in-class teams are rapidly growing. If you’re creative and autonomous with a real passion for your work, we want to hear from you!
+
+The base salary range is 96,000 USD - 161,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Speed Characterization Engineer,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Speed-Characterization-Engineer_JR1990348,"NVIDIA is the industry leader in high-performance computing, gaming, and AI. Our GPUs and SOCs provide outstanding performance and efficiency, revolutionizing myriad fields like cell research, robotics, crypto mining, and more. We invented CUDA and revolutionized the AI world, and we are just getting started.
+
+Silicon Solutions Group (SSG) is a multifaceted, multi-functional team at NVIDIA. We sit at the crossroads of design, architecture, marketing, and productization. Our involvement begins at the arch stage and extends to defining final products. We architect and deliver innovative solutions for various markets like Gaming, Data Centers, Servers, Automotive, and Embedded. We are fast-paced and multifaceted, share a sense of humor, and collaborate extensively to push the boundaries of what is possible. We do all of this with an eye on making ground-breaking impacts in our markets. If this sounds like something you want to do, read on. As part of the Silicon Solutions team at NVIDIA, you will be responsible for crafting new features and methodologies to optimize NVIDIA's chips into groundbreaking consumer, professional, server, mobile, and automotive solutions.
+
+**What you will be doing:**
+---------------------------
+
+*   Understand chip HW features and intersection with speed characteristics. Develop state-of-art characterization/validation strategies for these features.
+    
+*   Work in conjunction with senior engineers to prototype features on existing silicon and analyze the benefits of the feature.
+    
+*   Understand new silicon features and create internal characterization plans to validate benefits, functionality, etc.
+    
+*   Designing tools to automate characterization, data collection, test case execution, and results analysis.
+    
+*   Collaborating with the best minds in NVIDIA across various teams (System Architecture, PDE, Application Engineering, Product Manager, Sales, and Operations) in a dynamic, creative work environment to bring industry-defining products to market.
+    
+
+**What we need to see:**
+------------------------
+
+*   MS in EE, CE, Systems Engineering (or equivalent experience)
+    
+*   4+ years of experience in a related hardware engineering position.
+    
+*   Previous experience with silicon bringup, frequency and power characterization, PPA in Pre-Silicon or Post-Silicon phases, tester-to-system correlation, and lab tools (oscilloscopes, multimeters, DAQ).
+    
+*   Familiarity with Perl, C/C++, Python. Exposure to Windows, Linux, and Android OS environments. Scripting experience is a plus.
+    
+
+**Ways to stand out from the crowd:**
+-------------------------------------
+
+*   Some familiarity with statistical methods and tools for data analysis
+    
+*   A ""go-getter, can get it done"" attitude and independent 'out-of-box' thinking.
+    
+
+NVIDIA is widely considered to be one of the world’s most desirable employers in the technology field. If you're creative and ambitious, we want to hear from you!
+
+#LI-Hybrid
+
+The base salary range is 128,000 USD - 258,750 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior Silicon Circuits System Design Engineer,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Silicon-Circuits-System-Design-Engineer_JR1990293,"As one of the technology industry's most desirable employers, NVIDIA is an industry leader in high-performance computing, gaming, and AI. NVIDIA's GPUs and SOCs are outstanding in performance and efficiency, and we are continually innovating in creative ways to deliver outstanding solutions in a wide range of sectors. We seek Product Definition Engineers who are passionate about what they do and committed to making a difference in the world through their inventions.
+
+As part of the Silicon Solutions Team, we architect and deliver groundbreaking solutions for productizing NVIDIA's chips into consumer, professional, server, mobile, and automotive markets!
+
+**What you will be doing:**
+---------------------------
+
+*   As a Silicon Circuit System design engineer for NVIDIA's family of chips and products, you will evaluate and work with pre-production silicon in state-of-the-art process technologies to characterize and optimize performance, power, yield, and quality to define the world’s fastest products.
+*   Build pre and post-silicon methodologies to productize Analog, digital, and Mixed-Signal circuits and silicon features, correlate silicon behavior with simulations, and provide design feedback.
+*   Driving new feature initiatives across multiple business units, converting chip and board level dI/dt analysis/mitigation techniques and board PDN design knowledge to hardware features, design requirements, silicon characterization needs, and test requirements.
+*   Design essential next-generation product features that are vital for performance, power optimization, and management techniques from feature definition to production, working with multi-functional teams.
+*   Design tools to automate product definitions, data collection, test case execution, and results analysis.
+*   Find creative solutions to complex silicon and system-level problems and be on the frontline to lead show-stopper bugs to enable product shipment.
+*   Work alongside system architects, chip and board designers, software/firmware engineers, HW/SW applications engineering, process/reliability specialists, ATE engineers, product managers, sales, and operations, in a multifaceted, high-energy work environment to bring industry-defining products to market.
+
+**What we need to see:**
+------------------------
+
+*   BS with 7+ years or MS with 5+ years experience (or equivalent experience) in EE, CE, CS, Systems Engineering, or similar and experience in a related hardware engineering position.
+*   Excellent problem-solving, collaborative, and interpersonal skills. Experience working with offshore teams preferred.
+*   Highly desirable are in-depth knowledge of chip—and board-level dI/dt analysis/mitigation techniques and a background in board PDN design.
+*   Hands-on experience with silicon bringup, frequency and power characterization, Tester System correlation, and lab tools (oscilloscopes, multimeters, DAQ).
+*   Exposure to product binning methods, optimization techniques, methods, trade-off analysis, and tools for data analysis and statistics.
+*   Exposure to critical path analysis, power analysis, process technologies, transistor/device physics, silicon reliability, and aging mechanisms.
+*   Familiarity with Perl, C/C++, tool and script development, Windows and Linux OS is a plus.
+*   Background with power supply and substrate noise analysis and mitigation.
+*   Exposure to digital design, circuit analysis, computer architecture, BIOS, drivers, and software applications.
+
+NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing, and Visualization. Our invention, the GPU, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers what were once science fiction inventions, from artificial intelligence to autonomous cars. NVIDIA is looking for phenomenal people like you to help us accelerate the next wave of artificial intelligence.
+
+#LI-Hybrid
+
+The base salary range is 164,000 USD - 304,750 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+"Silicon Performance, Power and Binning Tools Engineer",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Performance--Power-and-Binning-Tools-Engineer_JR1990296,"NVIDIA's GPUs and SOCs are the world leaders in performance and efficiency, and we are continually innovating in creative and unique ways to improve our ability to deliver extraordinary solutions in a wide range of sectors. We seek Silicon Solutions Engineers who are passionate about what they do and committed to making a difference in the world through their inventions. As part of the Silicon Solutions Team, we are responsible for productizing NVIDIA's chips into groundbreaking consumer, professional, server, mobile, and automotive solutions.
+
+**What you will be doing:**
+---------------------------
+
+*   Develop the infrastructure for product definition and specifications to help build and market the world’s fastest power-shipping products.
+    
+*   You will design models and tools to automate and optimize critical stages of the product design.
+    
+*   Emulate silicon and system-level behavior and encapsulation of dynamic methodologies to push products to their physical limits, while simultaneously remaining accurate and reliable.
+    
+*   You will model crucial next-generation product features and work with multi-functional teams to drive them to production.
+    
+*   Find creative solutions to sophisticated silicon and system-level problems to enable product shipment.
+    
+*   Drive new product initiatives across multiple departments in the company, translating market requirements along with new hardware and system features into infrastructure needs, tool implementations, and process flows.
+    
+*   Make critical trade-off decisions involving software features by analyzing the impact on products and company processes.
+    
+*   In a dynamic, high-energy work environment, we work alongside system architects, product definition engineers, chip and board designers, software/firmware developers, HW/SW applications engineers, and operations teams to bring industry-defining products to market.
+    
+
+**What we need to see:**
+------------------------
+
+*   BS or MS in EE, CE, CS, or Systems Engineering (or equivalent experience)
+    
+*   4+ years of experience in a related hardware/software position
+    
+*   Excellent problem-solving, collaborative, and interpersonal skills. Experience working with offshore teams is preferred.
+    
+*   Strong understanding of digital design, circuit analysis, algorithms, computer architecture, silicon speed and power, BIOS, drivers, and software applications
+    
+*   Experience with Perl/Python, C/C++, databases, and web applications
+    
+*   Strong fundamentals in software algorithms and object-oriented programming. Demonstrate ability to divide complex problems into simple sub-problems and reuse available solutions to solve a broad range of challenges efficiently
+    
+*   Experience with product binning methods, optimization techniques, methods, and tools for data analysis and statistics is a plus
+    
+
+NVIDIA is a pioneer in bringing groundbreaking technology to new markets. We have some of the most forward-thinking and hardworking people in the world working with us. If you're creative and autonomous, we want to hear from you!
+
+#LI-Hybrid
+
+The base salary range is 148,000 USD - 276,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior Technical Program Manager – Silicon Solutions,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Silicon-Solutions_JR1990487,"As a Senior Technical Program Manager within our Silicon Solutions team, you will play a pivotal role in bridging the technical and management domains, driving the development and execution of critical programs. You will collaborate with development managers, engineers, and multi-functional teams across systems, software, operations, and marketing to ensure the flawless delivery of our silicon projects.
+
+**What you'll be doing:**
+
+*   Program Leadership and Execution: Own the planning, development, and management of project schedules and deliverables. Ensure meticulous management of tasks, dependencies, and breakthroughs to achieve program objectives on schedule.
+    
+*   Design and Scope Management: Actively participate in crucial design reviews. Efficiently handle scope changes to minimize impacts on project timelines and outcomes.
+    
+*   Multi-functional Collaboration: Serve as the primary liaison for the technical team in multi-functional discussions, ensuring alignment on project achievements and go-to-market strategies.
+    
+*   Risk Management: Proactively identify risks and dependencies, develop mitigation strategies, and advance issues to leadership as vital.
+    
+*   Communication: Provide regular updates on program status, highlighting challenges and proposing solutions to internal partners, facilitating informed decision-making.
+    
+*   Continuous Improvement: Leverage insights and standard processes from completed programs to drive continuous improvement in processes and outcomes for future projects.
+    
+*   Continually improve processes, optimize workflow, and maintain the highest quality levels.
+    
+
+**What we need to see:**
+
+*   A Bachelor of Science degree in Applied Science or Engineering is required (or equivalent experience); a Master's degree is helpful.
+    
+*   6+ years of relevant experience, including at least 3 years in a technical program management role, ideally within multi-functional teams.
+    
+*   Proven experience in SoC Bring Up, Validation, and Productization. A detailed understanding of datacenter and/or consumer electronics design, including critical interfaces.
+    
+*   Ability to navigate system integration complexities at the convergence of Silicon, System, and Software.
+    
+*   Proficient in leading rapid development cycles and embracing change, maintaining flexibility and composure in uncertain situations.
+    
+*   Highly self-motivated and proactive, with the ability to engage in critical thinking and problem-solving.
+    
+*   Outstanding communication and organizational skills, capable of effectively articulating sophisticated technical issues and solutions.
+    
+
+Our team is at the forefront of innovation in silicon solutions, contributing to the development of groundbreaking technologies. We offer a dynamic work environment where your contributions will directly impact the company's success. Join us to advance your career in a role where you can truly make a difference. With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you!
+
+#LI-Hybrid
+
+The base salary range is 156,000 USD - 299,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior System Level Product Engineer,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Level-Product-Engineer_JR1990234,"NVIDIA's GPUs and SOCs are the world leaders in performance and efficiency, and we are continually innovating in creative and unique ways to improve our ability to deliver extraordinary solutions in a wide range of sectors. We are seeking post-silicon Senior System Level Product Engineer who is passionate and committed to making a difference in the world through their inventions. As part of the Silicon Solutions Team, we are responsible for productizing NVIDIA's chips into groundbreaking consumer, professional, server, mobile, and automotive solutions. As a member of this team, you are responsible for developing procedures and test specs for manufacturing line with an innate understanding of product quality and needs. You will cover products in all business units that Nvidia provides solutions for. Prior experience in the lab with system level post silicon bring-up and debug is extremely helpful. Make the choice, join our diverse team today**!**
+
+**What you will be doing:**
+---------------------------
+
+*   Define procedures to facilitate correlation activities between production testing infrastructure and internal diagnostic programs
+    
+*   Create key performance indicators used to evaluate the effectiveness of the new tests
+    
+*   Drive process and procedure enhancement for future productization including lesson learnings for future bring up tasks.
+    
+*   Define and implement system level test solutions for all product segments.
+    
+*   Work closely with other HW engineering teams such as silicon design/characterization teams, IO design/validation teams, system feature owners, Board Level teams, Product Engineering teams focused on ATE testing , operations to determine coverage needs and constraints to resolve appropriate test conditions, diagnostic contents for production line screen.
+    
+*   Craft creative solutions and workarounds through volume data analysis and lab experimentation to solve challenging yield and test problems seen in production.
+    
+*   Lead optimization and continuous improvement efforts on the production screen spec definition processes to minimize waste and meet test time, yield, DPPM requirements.
+    
+*   Define requirements to SW and board teams to support/improve test infrastructure, debug knobs and data collection features needed to support manufacturing screens effectively.
+    
+*   Support internal teams during customer escalations to understand the issue and fix gaps identified in coverage.
+    
+
+**What we need to see:**
+------------------------
+
+*   Bachelor’s or Master’s Degree or equivalent in Microelectronics/Electrical/Electronic/Computer Engineering or requivalent experience.
+    
+*   8+ years of experience in a Silicon and System Validation or related hardware engineering position.
+    
+*   Knowledgeable in ATE, System Level, Board Level testing and debug methodologies and coordinate various aspects pertaining to manufacturing and production of NVIDIA products
+    
+*   Strong data analytics skills. Prior experience working with volume data is a plus.
+    
+*   Excellent problem solving, collaborative, and interpersonal skills.
+    
+*   Knowledgeable in DFT architecture, BIST, fault models and fault detection methods, HTOL experience.
+    
+*   Hands-on experience with silicon bring-up, Frequency and power characterization, Tester to System correlation, lab tools (oscilloscopes, multimeters, DAQ etc).
+    
+*   Strong EE fundamentals, knowledgeable in digital design, circuit analysis, computer architecture, BIOS, drivers, and software applications.
+    
+*   Experience in critical path analysis, power analysis, process technologies, transistor/device physics, silicon reliability and ageing mechanisms.
+    
+*   Experience with Perl, C/C++, Python and script development, Windows and Linux OS is a plus.
+    
+*   Knowledgeable in scripting, statistics, timing analysis, fault analysis, sampling, computer architecture.
+    
+
+**Ways to stand out above the crowd:**
+--------------------------------------
+
+*   Deep understanding of technology and passionate about what you do
+    
+*   Familiarity with statistical methods and tools for data analysis
+    
+*   Strong collaborative and communication skills, specifically a shown ability to effectively guide and influence within a dynamic environment
+    
+*   Strive to be a standout colleague and be ready to work with global teams from diverse cultural backgrounds in a high energy environment
+    
+
+Join NVIDIA, a trailblazer at the forefront of graphics and artificial intelligence performance, efficiency, and innovation. From our roots as a groundbreaking graphics company, we have evolved into a global leader in artificial intelligence, continuously pushing the boundaries to tackle sophisticated challenges across diverse industries.
+
+#LI-Hybrid
+
+The base salary range is 164,000 USD - 304,750 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior System Level Testability Lead,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Level-Testability-Lead_JR1990244,"NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to solve, that only we can tackle, and that matter to the world. This is our life’s work to amplify human imagination and intelligence. Make a choice, and join our diverse team today**!**
+
+NVIDIA Silicon Solutions Group is now looking for a System Level Product Engineer to be part of the team! As a member of this team, you are responsible for developing test specs for the manufacturing line with an innate understanding of product needs. You will cover products in all business units that Nvidia provides solutions for. Prior experience in the lab with system-level post silicon bring-up and debug is helpful.
+
+**What you will be doing:**
+---------------------------
+
+*   Work closely with other HW engineering teams such as silicon design/characterization teams, IO design/validation teams, system feature owners, operations to determine coverage needs and constraints to resolve appropriate test conditions, diagnostic contents for production line screen.
+    
+*   Define requirements to SW and board teams to support/improve test infrastructure, debug knobs and data collection features needed to support manufacturing screens effectively.
+    
+*   Drive testability scope and coverage enhancements for Nvidia's manufacturing testing with a focus on system-level test
+    
+*   Prototype and fine-tune speed, power, performance, yield, and quality on pre-production silicon
+    
+*   Define, develop, and maintain system-level testing flows and incorporate takeaways from silicon and correlate to design.
+    
+*   Define procedures to facilitate correlation activities between production testing infrastructure and internal diagnostic programs
+    
+*   Support customer facing and quality teams during customer escalations to understand the issue and fix gaps identified in coverage.
+    
+*   Create key performance indicators used to evaluate the effectiveness of the new tests
+    
+
+**What we need to see:**
+------------------------
+
+*   Bachelor’s or Master’s Degree or equivalent in Microelectronics/Electrical/Electronic/Computer Engineering or equivalent experience.
+    
+*   8+ years of relevant industry experience
+    
+*   Strong EE fundamentals, knowledgeable in digital design, signal integrity, statistics, timing analysis, fault analysis, sampling and computer architecture.
+    
+*   Strong data analysis skills. Prior experience working with volume data is a plus.
+    
+*   Validated hands-on lab experience with silicon bringup and lab debug.
+    
+*   Good understanding of firmware/driver structures and their interaction with HW.
+    
+*   Problem-solving, debugging, analysis, and logical reasoning skills with examples to prove it
+    
+*   Experience with Python, BASH, Linux
+    
+
+**Ways to stand out above the crowd:**
+
+*   Deep understanding of technology and passionate about what you do
+    
+*   Familiarity with statistical methods and tools for data analysis
+    
+*   Strong collaborative and communication skills, specifically a shown ability to effectively guide and influence within a dynamic environment
+    
+*   Strive to be a standout colleague and be ready to work with global teams from diverse cultural backgrounds in a high-energy environment
+    
+
+Join NVIDIA, a trailblazer at the forefront of graphics and artificial intelligence performance, efficiency, and innovation. From our roots as a groundbreaking graphics company, we have evolved into a global leader in artificial intelligence, continuously pushing the boundaries to tackle sophisticated challenges across diverse industries.
+
+#LI-Hybrid
+
+The base salary range is 164,000 USD - 304,750 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior HPC Systems Engineer,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-Systems-Engineer_JR1986609,"NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+We are looking for an outstanding engineer for a Senior HPC Systems Engineer role for at scale AI system performance and datacenter applications. Be a key player to the most exciting computing hardware and software to contribute to the latest breakthroughs in artificial intelligence and GPU computing! Provide insights on at-scale system design and tuning mechanisms for large-scale compute runs. You will work with the latest Accelerated Computing and Deep Learning software and hardware platforms, and with many researchers, developers, and customers to craft improved workflows and develop new, leading differentiated solutions. You will interact with HPC, OS, CPU and GPU compute, and systems specialist to architect, develop and bring up large scale performance platforms.
+
+**What you'll be doing:**
+
+*   Lead all aspects of implementing performance practices in large scale infrastructure, deliver powerful tools, methodologies, and flows to validate and improve several datacenter products in parallel.
+    
+*   Accelerate strategic customer deployments and ensure speed-of-light bringup and deployment of ground-breaking AI infrastructure by working hand in hand tailoring design and faster processes to customer needs.
+    
+*   Provide engineering solutions to enable large scale performance strategies for performance for Datacenter GPU Computing products and software stacks, ensure technical relationships with internal and external engineering teams, and assisting systems engineers in building creative solutions based on NVIDIA technology.
+    
+*   Participating in engagements with various SW and FW (BMC/SBIOS/OS/drivers etc) teams to develop best-in-class practices and tools, you will be analyzing, debugging and resolving critical software issues for the best AI workload performance at scale.
+    
+*   Specific responsibilities include owning the architecting of performance design and settings of datacenter at scale products both implemented in FW and SW components to ensure velocity and scale while efficiently using resources. This involves early engagement with HW/FW/SW/platform internal and customer teams, and other groups, to build end-to-end solutions and optimize datacenter product designs.
+    
+*   Be an internal reference for software, at scale deployment for datacenter and large-scale GPU-accelerated system solutions among the NVIDIA technical community.
+    
+
+**What we need to see:**
+
+*   5+ years of experience in using accelerated computing for datacenter container computing solutions.
+    
+*   BS in Engineering, Mathematics, Physics, or Computer Science, MS or PhD desirable (or equivalent experience).
+    
+*   Solid understanding of accelerated parallel computing models (MPI, NCCL).
+    
+*   Experience using and handling modern Cloud and container-based Enterprise computing architectures.
+    
+*   C/C++/Python/Bash programming/scripting experience.
+    
+*   Experience with CPU architecture.
+    
+*   Experience with container technology and Linux based OSes.
+    
+*   Experience working with engineering or academic research community supporting high performance computing or deep learning.
+    
+*   Strong verbal and written communication skills as well as excellent teamwork and communication skills.
+    
+*   Ability to multitask effectively in a dynamic environment.
+    
+
+**Ways to Stand Out From the Crowd:**
+
+*   Deep Learning framework skills.
+    
+*   Hands-on experience with LLM training pipelines.
+    
+*   Exposure to scheduling and resource management systems.
+    
+*   Experience with large scale HPC environments.
+    
+
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family [www.nvidiabenefits.com/](http://www.nvidiabenefits.com/)
+
+The base salary range is 148,000 USD - 276,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior Performance Engineer,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer_JR1986325,"NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+We are looking for an outstanding engineer for a Senior Performance Engineer role for at scale AI system performance and datacenter applications. Be a key player to the most exciting computing hardware and software to contribute to the latest breakthroughs in artificial intelligence and GPU computing! Provide insights on at-scale system design and tuning mechanisms for large-scale compute runs. You will work with the latest Accelerated Computing and Deep Learning software and hardware platforms, and with many researchers, developers, and customers to craft improved workflows and develop new, leading differentiated solutions. You will interact with HPC, OS, CPU and GPU compute, and systems specialist to architect, develop and bring up large scale performance platforms.
+
+**What we need to see:**
+
+*   Lead all aspects of implementing performance practices in large scale infrastructure, deliver powerful tools, methodologies, and flows to validate and improve several datacenter products in parallel.
+    
+*   Accelerate strategic customer deployments and ensure speed-of-light bringup and deployment of ground-breaking AI infrastructure by working hand in hand tailoring design and faster processes to customer needs.
+    
+*   Specific responsibilities include owning the architecting of performance design and settings of datacenter at scale products both implemented in FW and SW components to ensure velocity and scale while efficiently using resources. This involves early engagement with HW/FW/SW/platform internal and customer teams, and other groups, to build end-to-end solutions and optimize datacenter product designs.
+    
+*   As a key member you will supply to architecting of the implementation of server and rack level telemetry aspects, collaborate and establish continuous improvements in our design flows.
+    
+*   Participating in engagements with various SW and FW (BMC/SBIOS/OS/drivers etc) teams to develop best-in-class practices and tools, you will be analyzing, debugging and resolving critical firmware and software issues for the best AI workload performance at scale.
+    
+*   Provide engineering solutions to enable large scale performance strategies for performance for Datacenter GPU Computing products and software stacks, ensure technical relationships with internal and external engineering teams, and assisting systems engineers in building creative solutions based on NVIDIA technology.
+    
+*   Be an internal reference for firmware, at scale deployment for datacenter and large-scale GPU-accelerated system solutions among the NVIDIA technical community.
+    
+
+**What we need to see:**
+
+*   5+ years of experience in using accelerated computing for datacenter container computing solutions.
+    
+*   Solid understanding of accelerated computing software stacks (CUDA).
+    
+*   Experience using and handling modern Cloud and container-based Enterprise computing architectures.
+    
+*   C/C++/Python/Bash programming/scripting experience.
+    
+*   Experience with CPU architecture.
+    
+*   Background with container technology and Linux based OSes.
+    
+*   Experience working with engineering or academic research community supporting high performance computing or deep learning.
+    
+*   Strong verbal and written communication skills as well as excellent teamwork and communication skills.
+    
+*   Ability to multitask effectively in a dynamic environment.
+    
+*   Action driven with strong analytical and analytical skills with a desire to be involved in multiple diverse and creative projects.
+    
+*   BS in Engineering, Mathematics, Physics, or Computer Science, MS or PhD desirable (or equivalent experience).
+    
+
+**Ways to Stand Out From the Crowd:**
+
+*   Deep Learning framework skills.
+    
+*   DL and graph compiling programming skills.
+    
+*   Exposure to virtualization techniques, cloud platform solutions.
+    
+*   Exposure to scheduling and resource management systems.
+    
+*   Experience with large scale HPC environments.
+    
+
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family [www.nvidiabenefits.com/](http://www.nvidiabenefits.com/)
+
+The base salary range is 148,000 USD - 276,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+Senior Linux Systems Engineer,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Systems-Engineer_JR1986224,"NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+We are looking for a Senior Linux Software Engineer to join the NVIDIA Applied Systems Engineering group. The work environment is challenging, diverse and fast paced as our employees are currently working on innovative, next-generation AI Factory hardware and software infrastructure at the forefront of technology and performance.
+
+**What you will be doing:**
+
+*   Work on Linux security, identity, container runtimes, drivers+containers, and containerization of various high performance computing cluster software elements within a variety of environments.
+    
+*   Crafting, developing and enhancing components of the compute, network, storage security, and management software elements in support of HPC environments.
+    
+*   Driving a complete engineering process, including refining requirements, engineering design of data structures/algorithms, implementation, peer review, testing, and documentation.
+    
+*   Drive sophisticated technical issues to closure that may occur across team, organizational and company boundaries.
+    
+
+**What we need to see:**
+
+*   Bachelor's/Master’s degree in computer science or computer engineering or equivalent experience
+    
+*   5+ years of experience with C, C++ and Rust programming. Deep understanding of basic programming primitives, data structures, multi-threading, memory management, hardware access techniques and how to reason about them.
+    
+*   Demonstrable Linux systems programming abilities particularly in userspace with kernel space programming as a plus.
+    
+*   Ability to self-manage, lead technically, and communicate effectively. Flexibility to work across multiple projects, environments and technologies. Open Source contributions, projects and implementations desirable.
+    
+
+Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family [www.nvidiabenefits.com/](http://www.nvidiabenefits.com/)
+
+The base salary range is 148,000 USD - 276,000 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+
+You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+"
+"Senior Developer Technology Engineer, Public Sector",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer--Public-Sector_JR1987080,"NVIDIA is hiring passionate, world-class computer scientists and engineers to work in its Public Sector Developer Technology (Devtech) team. In this role, you will research and develop techniques to GPU-accelerate leading applications in fields targeting applications in the federal ecosystem.
+
+****What you will be doing:****
+
+*   Engage directly with experts in their field to understand and address the problems they are solving.
+    
+*   Guide key application developers, contribute directly to the applications and benchmarks, and develop reference codes and libraries.
+    
+*   Create and optimize core parallel algorithms and data structures to provide the best solutions using the NVIDIA platform.
+    
+*   Perform in-depth analysis and optimization to ensure the best possible performance on the current and next generation of CPUs (Arm and x86 architectures), NVIDIA GPUs and DPUs, and/or network architectures.
+    
+*   Occasional travel from time to time for conferences and on-site visits with developers.
+    
+
+****What we need to see:****
+
+*   A Masters or PhD in Computer Engineering, Computer Science, or a domain science with a strong focus on the related computational methods or a Bachelors degree (or equivalent experience) in those fields with additional equivalent experience.
+    
+*   6+ years of relevant software development experience
+    
+*   Strong knowledge of C/C++ and/or Fortran with solid understanding in software design, programming techniques, and algorithms.
+    
+*   A passion for performance optimization.
+    
+*   Hands-on experience with parallel programming, e.g., in MPI, OpenMP, CUDA, and/or OpenACC.
+    
+*   Good communication and organization skills, with a logical approach to problem solving, good time management, and task prioritization skills.
+    
+*   Strong mathematical fundamentals, including linear algebra and numerical methods.
+    
+*   Experience working within the Federal Government and the ability to hold a US security clearance is also beneficial.
+    
+
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most forward-thinking and hardworking people in the world working with us and our engineering teams are growing fast in some of the hottest and state of the art fields: Deep Learning, Artificial Intelligence, Autonomous Vehicles, Supercomputing and more. Are you a creative and autonomous computer scientist with a real passion for parallel computing? If so, we want to hear from you.
+
+The base salary range is 180,000 USD - 339,250 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
 
 You will also be eligible for equity and [benefits](https://www.nvidia.com/en-us/benefits/). _NVIDIA accepts applications on an ongoing basis._
 
