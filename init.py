@@ -19,5 +19,5 @@ with open('jobs.csv', 'w', newline='') as csv_file:
             posted_on = job.get('postedOn', 'N/A')
             url = job.get('url', 'N/A')
             writer.writerow([title, location, posted_on, url])
-
+    
 print("Archivo CSV 'jobs.csv' creado exitosamente.")
